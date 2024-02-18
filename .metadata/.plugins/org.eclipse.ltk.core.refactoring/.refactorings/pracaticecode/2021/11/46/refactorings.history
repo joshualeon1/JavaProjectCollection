@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.miniprojects.tictactoe.TicTacToe&apos; to &apos;Main&apos;&#x0D;&#x0A;- Original project: &apos;PracticeProjects&apos;&#x0D;&#x0A;- Original element: &apos;com.miniprojects.tictactoe.TicTacToe&apos;&#x0D;&#x0A;- Renamed element: &apos;com.miniprojects.tictactoe.Main&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;TicTacToe&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.miniprojects.tictactoe{TicTacToe.java[TicTacToe" matchStrategy="1" name="Main" qualified="false" references="true" similarDeclarations="false" stamp="1636687618449" textual="false" version="1.0"/>
+</session>
